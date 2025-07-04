@@ -1,6 +1,6 @@
 # UnderScratch
 
-UnderScratch is a versatily Undertale battle engine made in Turbowarp (Vanila Scratch version planned for later after release).  
+UnderScratch is a versatile Undertale battle engine made in Turbowarp (Vanila Scratch version planned for later after release).  
 Right now, many things havent been implemented, however progress is being made.  
 
 
