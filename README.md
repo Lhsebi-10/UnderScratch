@@ -1,3 +1,3 @@
-website doesnt work atm.  
-will fix tomorrow  
-have fun with a broken engine that barely does anything lol
+Development branch for Underscratch.
+everything here is either the same as main, or compltley experimental.
+for your sake, just use the main branch.
