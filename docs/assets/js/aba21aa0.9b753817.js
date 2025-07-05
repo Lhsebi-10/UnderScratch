@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkunder_scratch_docs=self.webpackChunkunder_scratch_docs||[]).push([[742],{7093:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
